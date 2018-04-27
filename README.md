@@ -5,3 +5,4 @@ For the course.
 * They are brown
 * They like to swim
 * They sleep a lot
+* They have a strong tail
